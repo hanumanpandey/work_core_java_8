@@ -1,5 +1,5 @@
 package io.man.collection.hashmapimpl;
-/* Custom implementation of HashMap*/
+/* ========================Custom implementation of HashMap==================*/
 public class MyHashMap {
 
 	public static void main(String[] args) {
